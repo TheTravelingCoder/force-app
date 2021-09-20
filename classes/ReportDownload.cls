@@ -1,3 +1,4 @@
+
 public with sharing class ReportDownload {
     public List<Case> cas {get; set;}
     transient public Integer hcount {get; set;}
